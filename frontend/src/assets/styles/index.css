@@ -2,12 +2,19 @@ main {
   min-height: 80vh;
 }
 
+.btn-dark {
+  color: #fff;
+}
+.btn-dark:hover {
+  color: #fff;
+}
+
 .rating span {
   margin: 0.1rem;
 }
 
 .rating svg {
-  color: #f8e825;
+  color: #f55b14;
 }
 
 .rating-text {
